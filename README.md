@@ -1,3 +1,7 @@
+## Description
+
+DTmoney is a small personal finance website. May include expenses and gains. It calculates the total automatically.
+
 ## Tecnologies, Libraries and Hooks
 
 - ReactJS

@@ -7,7 +7,7 @@ DTmoney is a small personal finance website. May include expenses and gains. It 
 - ReactJS
 - TypeScript
 - useState
-- useEfect
+- useEffect
 - Context API
 - Styled Components
 - Mirage JS
